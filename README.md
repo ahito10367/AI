@@ -8,12 +8,12 @@
 ## Содержание
 | Работа | Тема | Стек | Ключевой навык |
 |--------|------|------|---------------|
-| [01_linear_models](./01_linear_models/) | Линейная регрессия, классификация | sklearn, pandas | Базовый ML-пайплайн, метрики |
-| [02_trees_ensemble](./02_trees_ensemble/) | Деревья, Random Forest, Boosting | sklearn, XGBoost | Ансамбли, борьба с переобучением |
-| [03_neural_nets](./03_neural_nets/) | Перцептрон, backprop | PyTorch, numpy | Основы глубокого обучения |
-| [04_cnn](./04_cnn/) | Свёрточные сети, компьютерное зрение | PyTorch, torchvision | Работа с изображениями |
-| [05_rnn](./05_rnn/) | Рекуррентные сети, последовательности | PyTorch | Обработка временных рядов / текста |
-| [06_transformers](./06_transformers/) | BERT, attention | Hugging Face, transformers | State-of-the-art NLP |
+| [01_linear_models] | Линейная регрессия, классификация | sklearn, pandas | Базовый ML-пайплайн, метрики |
+| [02_trees_ensemble] | Деревья, Random Forest, Boosting | sklearn, XGBoost | Ансамбли, борьба с переобучением |
+| [03_neural_nets]| Перцептрон, backprop | PyTorch, numpy | Основы глубокого обучения |
+| [04_cnn] | Свёрточные сети, компьютерное зрение | PyTorch, torchvision | Работа с изображениями |
+| [05_rnn] | Рекуррентные сети, последовательности | PyTorch | Обработка временных рядов / текста |
+| [06_transformers] | BERT, attention | Hugging Face, transformers | State-of-the-art NLP |
 
 ## Как использовать
 - **Для работодателя**: посмотрите `04_cnn` и `06_transformers` — там наиболее релевантные для индустрии навыки.
